@@ -7,4 +7,4 @@ download snap with the same version and extract files,
 extract objects.js on my rar and put it in the folder Snap-6.5.2/src, 
 run Snap and import the .xml file,
 
-'snap mod.png'
+![alt text](snap mod.png?raw=true)
